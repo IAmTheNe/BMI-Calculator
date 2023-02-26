@@ -1,6 +1,6 @@
 # bmi_calculator
 <p>Video Demo</p>
-![Demo](./assets/images/3431332606151402030.gif)
+[![Demo](3431332606151402030.mp4)]
 
 ## Packages using in this project
 - [syncfusion_flutter_gauges](https://pub.dev/packages/syncfusion_flutter_gauges)
